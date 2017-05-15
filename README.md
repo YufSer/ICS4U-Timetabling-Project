@@ -1,7 +1,7 @@
 # Project: ICS4U-Timetabling-Project
 Overview: A program that creates an optimal timetable for students and teachers using genetic algorithm.
 ## Getting Started
-Coding underway ^-^
+Coding underway (-_\\\)
 ### Prerequisites
 - Learn the basics of SQL (Structured Query Language)
 - Understand genetic algorithms
