@@ -6,5 +6,6 @@ Coding underway (-_\\\)
 - Learn the basics of SQL (Structured Query Language)
 - Understand genetic algorithms
 - Being able to convert from an excel file to python file
+- Know the basics of Excel
 ### Installing
 Installation in Progress {#_#}
