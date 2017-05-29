@@ -12,3 +12,4 @@ To get started, you should first begin by downloading the latest sample program 
 - Have an general understanding of Python and its command 
 ### Installing
 Installation in Progress {#_#}
+Installing Python - For those who don't know how to 
