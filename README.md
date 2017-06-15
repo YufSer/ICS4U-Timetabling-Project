@@ -12,7 +12,6 @@ To get started, you should first begin by downloading the latest sample program 
 - Have an general understanding of Python and its command
 - Know the technical know how of PP (Parallel Python) from Python
 
-
 Remember, these are important prerequisites for you to read the program, generally speaking, they are to help you understand, the difficult aspect of the program  due to the techinal elements include inside this program.    
 ### Installing
 Installing Python - For those who don't know how to install python, the process is pretty simple, first you should click the link to head to the python download webpage https://www.python.org/downloads/, then find the right version of python mention in the description above in the file section, click the version and find the right download for your computer system, but assuming that everyone here is using windows OS x64bit, you should download this link here Windows x86-64 MSI installer, and start the installing process which you should be able to do. If not a common download python tutorial video should work.
